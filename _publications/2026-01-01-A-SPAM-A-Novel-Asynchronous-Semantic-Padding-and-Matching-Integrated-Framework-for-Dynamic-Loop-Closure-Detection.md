@@ -8,7 +8,7 @@ date: 2025
 venue: 'IEEE Robotics and Automation Letters'
 ---
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+SPAM:+A+Novel+Asynchronous+Semantic+Padding+and+Matching+Integrated+Framework+for+Dynamic+Loop+Closure+Detection){:target="_blank"} for full citation
+
 
 
 
