@@ -11,34 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Big data, Macao Polytechnic University, 2023-2025
+* B.S. in Math, Shanghai Normal University, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023: Research Assistant
+  * Shanghai Normal Universit
+  * Duties includes: Cooperation with Shanghai Municipal Education Commission, Algorithms design for automatic examinations in National College Entrance Examination, etc.
   
+
+
+* 2023-2025: Research Assistant
+  * Macao Polytechnic University
+  * Duties included: Robotics control and navigation algorithms design, UAV localization and path planning algorithm design in complex urban envirionments, etc.
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python programming
+* Data analysis
 * Skill 3
 
 Publications
