@@ -36,7 +36,7 @@ Skills
 ======
 * Python programming
 * Data analysis
-* Skill 3
+* Numerical analysis
 
 Publications
 ======
