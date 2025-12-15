@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/A-SPAM_pre
 paperurl: 'https://ieeexplore.ieee.org/document/11263859'
-date: 2025
+date: 2026-01-01
 venue: 'IEEE Robotics and Automation Letters'
 ---
+
 
 
 
