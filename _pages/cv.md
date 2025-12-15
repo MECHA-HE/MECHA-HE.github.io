@@ -17,14 +17,18 @@ Education
 Work experience
 ======
 * 2020-2023: Research Assistant
-  * Shanghai Normal Universit
-  * Duties includes: Cooperation with Shanghai Municipal Education Commission, Algorithms design for automatic examinations in National College Entrance Examination, etc.
+  * Shanghai Normal University
+  * Duties includes:
+    Cooperation with Shanghai Municipal Education Commission.
+    Algorithms design for automatic examinations in National College Entrance Examination, etc.
   
 
 
 * 2023-2025: Research Assistant
   * Macao Polytechnic University
-  * Duties included: Robotics control and navigation algorithms design, UAV localization and path planning algorithm design in complex urban envirionments, etc.
+  * Duties included:
+    Robotics control and navigation algorithms design.
+    UAV localization and path planning algorithm design in complex urban envirionments, etc.
 
 
 
