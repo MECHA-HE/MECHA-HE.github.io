@@ -7,7 +7,8 @@ venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/25/13/4052'
 citation: ' Yanming Chai,  Yapeng Wang,  Xu Yang,  Sio-Kei Im,  Qibin He, &quot;UAVRM-A*: A Complex Network and 3D Radio Map-Based Algorithm for Optimizing Cellular-Connected UAV Path Planning.&quot; Sensors, 2025.'
 ---
-[Access paper here](https://www.mdpi.com/1424-8220/25/13/4052){:target="_blank"}
+[Pdf File]()[DOI:](https://www.mdpi.com/1424-8220/25/13/4052){:target="_blank"}
+
 
 
 
