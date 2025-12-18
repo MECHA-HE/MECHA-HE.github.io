@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Projects
-======
+
 Alpha Grade
 ===
 2020-2023
