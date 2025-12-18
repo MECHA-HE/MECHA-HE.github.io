@@ -13,6 +13,7 @@ redirect_from:
 Alpha Grade
 ===
 2020-2023
+
 Participants: Shanghai Normal University, Shanghai Municipal Education Commission
 
 Target: Autonomous examiner for eliminating errors by human examiners.
