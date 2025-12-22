@@ -46,7 +46,20 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    
+    {% if post.teaser %}
+      <div class="archive__item-teaser" style="text-align: center; margin: 25px 0; clear: both;">
+      <img src="{{ post.teaser | relative_url }}" 
+         alt="{{ title }} Teaser" 
+         style="max-width: 80%; height: auto; max-height: 300px; border-radius: 6px; display: inline-block;">
+      </div>
+    {% endif %}
+
+    {% if post.abstract %}
+      <div class="archive__item-abstract" style="clear: both;">
+      <h4 style="margin-top: 0;">Abstract</h4>
+      <p style="text-align: justify;">{{ post.abstract }}</p>
+      </div>
+    {% endif %}
     
 
         {% if post.collection == 'teaching' %}
