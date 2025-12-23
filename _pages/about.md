@@ -11,30 +11,24 @@ redirect_from:
 
 I'm current a research assistant in Macao Polytechnic Univerisity. My research interests include: Visual SLAM(focusing on robustness), Autonomous Navigation, Embodied intelligence, and etc. I'm looking for PhD positions.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 30px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 40px;">
   
-  <div style="width: 48%; margin-bottom: 20px;">
-    <div style="background: #007bff; color: white; padding: 10px 15px; border-radius: 5px 5px 0 0;">
-      <strong>Research Interests</strong>
-    </div>
-    <div style="padding: 15px; border: 1px solid #ddd; border-top: none; border-radius: 0 0 5px 5px;">
-      <p>• UAV Path Planning & Optimization<br>
-         • Complex Network Applications<br>
-         • 3D Wireless Communication<br>
-         • Machine Learning for Robotics</p>
-    </div>
+  <!-- 左侧 -->
+  <div>
+    <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Research Focus</h3>
+    <p style="line-height: 1.6;">Opinions for SLAM</p>
+    <ul style="padding-left: 20px; line-height: 1.6;">
+      I think current SLAM is too expensive in embedded devices.
+    </ul>
   </div>
   
-  <div style="width: 48%; margin-bottom: 20px;">
-    <div style="background: #28a745; color: white; padding: 10px 15px; border-radius: 5px 5px 0 0;">
-      <strong>Academic Activities</strong>
-    </div>
-    <div style="padding: 15px; border: 1px solid #ddd; border-top: none; border-radius: 0 0 5px 5px;">
-      <p>• Journal Reviewer (IEEE Sensors, etc.)<br>
-         • Conference Committee Member<br>
-         • Research Project Supervision<br>
-         • Academic Collaboration</p>
-    </div>
+  <!-- 右侧 -->
+  <div>
+    <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Academic Service</h3>
+    <p style="line-height: 1.6;">Future research plannings</p>
+    <ul style="padding-left: 20px; line-height: 1.6;">
+      reduce the cost of SLAM, making SLAM more suitable.
+    </ul>
   </div>
   
 </div>
