@@ -16,9 +16,9 @@ I'm current a research assistant in Macao Polytechnic Univerisity. My research i
   <!-- 左侧 -->
   <div>
     <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Opinions for SLAM</h3>
-    <p style="line-height: 1.6;"> My view on SLAM is that its evolution must bifurcate to serve two distinct technological frontiers. On one end, we need "Lite SLAM"—ultra-efficient algorithms capable of running on resource-constrained embedded hardware like STM32 MCUs, enabling ubiquitous spatial awareness in everyday devices. On the other, we must develop "Powerful SLAM"—robust, semantically rich spatial AI systems that serve as the foundational world model for autonomous agents, allowing for complex, long-term environment interaction.
+    <p style="line-height: 1.6;"> My view is that SLAM should evolve along two parallel tracks: "Lite SLAM" for embedded devices like STM32, and "Powerful SLAM" as a spatial AI foundation for intelligent agents.
 
-Currently, both fronts are unsatisfactory. Traditional approaches like V-SLAM or LiDAR-SLAM remain too computationally expensive and costly for mass-market embedded applications. Meanwhile, for intelligent agents, merely building a geometric map is insufficient. The core challenges lie in achieving deep semantic and geometric fusion (understanding what objects are and their properties), maintaining robustness in dynamic and ever-changing environments, and creating multi-level spatial representations that bridge low-level geometry to high-level, task-oriented reasoning. Until we solve these, SLAM will remain a localization tool rather than the cognitive spatial engine for the age of embodied intelligence.
+Current solutions fall short. V-SLAM and LiDAR-SLAM remain too costly for lightweight hardware, while existing systems lack the semantic depth and adaptive reasoning needed for true agent-environment interaction. The real challenge lies not just in mapping geometry, but in building persistent, understandable representations that bridge perception with action and plannings.
       </p>
     <ul style="padding-left: 20px; line-height: 1.6;">
 
