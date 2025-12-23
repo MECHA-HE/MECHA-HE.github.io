@@ -11,23 +11,18 @@ redirect_from:
 
 I'm current a research assistant in Macao Polytechnic Univerisity. My research interests include: Visual SLAM(focusing on robustness), Autonomous Navigation, Embodied intelligence, and etc. I'm looking for PhD positions.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 40px;">
+<div style="margin-top: 40px;">
   
-  <!-- 左侧 -->
-  <div>
+  <!-- 上部 -->
+  <div style="margin-bottom: 40px;">
     <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Opinions for SLAM</h3>
-    <p style="line-height: 1.6;"> My view is that SLAM should evolve along two parallel tracks: "Lite SLAM" for embedded devices like STM32, and "Powerful SLAM" as a spatial AI foundation for intelligent agents.
-
-Current solutions fall short. V-SLAM and LiDAR-SLAM remain too costly for lightweight hardware, while existing systems lack the semantic depth and adaptive reasoning needed for true agent-environment interaction. The real challenge lies not just in mapping geometry, but in building persistent, understandable representations that bridge perception with action and plannings.
-      </p>
-    <ul style="padding-left: 20px; line-height: 1.6;">
-
-    </ul>
+    <p style="line-height: 1.6;">My view is that SLAM should evolve along two parallel tracks: "Lite SLAM" for embedded devices like STM32, and "Powerful SLAM" as a spatial AI foundation for intelligent agents.</p>
+    <p style="line-height: 1.6;">Current solutions fall short. V-SLAM and LiDAR-SLAM remain too costly for lightweight hardware, while existing systems lack the semantic depth and adaptive reasoning needed for true agent-environment interaction. The real challenge lies not just in mapping geometry, but in building persistent, understandable representations that bridge perception with action and planning.</p>
   </div>
   
-  <!-- 右侧 -->
+  <!-- 下部 -->
   <div>
-    <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Future research plannings</h3>
+    <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Future research planning</h3>
     <p style="line-height: 1.6;">Active participation in the academic community through various roles and responsibilities.</p>
     <ul style="padding-left: 20px; line-height: 1.6;">
       <li>Reviewer for IEEE Sensors, IEEE Robotics and Automation Letters</li>
