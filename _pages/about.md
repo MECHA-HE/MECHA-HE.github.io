@@ -9,7 +9,7 @@ redirect_from:
 
 ------
 
-I'm current a research assistant in Macao Polytechnic Univerisity. My research interests include: Visual SLAM(focusing on robustness), Autonomous Navigation, Embodied intelligence, and etc. I'm looking for PhD positions.
+I'm current a research assistant in Macao Polytechnic Univerisity. My research interests include: Visual SLAM, Autonomous Navigation, Embodied intelligence, and etc. I'm looking for PhD positions.
 
 <div style="margin-top: 40px;">
   
