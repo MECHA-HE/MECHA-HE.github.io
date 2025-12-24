@@ -24,7 +24,7 @@ Work experience
   
 
 
-* 2023-2025: Research Assistant
+* 2023-now: Research Assistant
   * Macao Polytechnic University
   * Duties included:
     Robotics control and navigation algorithms design.
