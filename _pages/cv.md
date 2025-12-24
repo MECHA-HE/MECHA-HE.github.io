@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Big data, Macao Polytechnic University, 2023-2025
-* B.S. in Math, Shanghai Normal University, 2019-2023
+* M.S. in Big data and IoT, Macao Polytechnic University, 2023-2025
+* B.S. in Math and Applied Math, Shanghai Normal University, 2019-2023
 
 Work experience
 ======
