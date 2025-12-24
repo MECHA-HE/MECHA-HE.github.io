@@ -9,7 +9,7 @@ redirect_from:
 
 ------
 
-I'm current a research assistant in [Macao Polytechnic Univerisity]([https://www.mpu.edu.mo/admission/en/index.php?gad_source=1&gad_campaignid=23306815633&gbraid=0AAAAApG2RCOuqUmnVh2vpa5G9mveKtp_e&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZwOc3gkpZ3BBlzqOM-XwUneIvXdTXDRYzIKJN-3oS72k-R8r7v_iWxoCdBkQAvD_BwE](https://www.mpu.edu.mo/en/index.php)) supervised by [Yapeng Wang](https://research.mpu.edu.mo/en/persons/yapeng-wang/) My research interests include: Visual SLAM, Autonomous Navigation, Embodied intelligence, etc. I'm looking for PhD positions.
+I'm current a research assistant in [Macao Polytechnic Univerisity](https://www.mpu.edu.mo/admission/en/index.php?gad_source=1&gad_campaignid=23306815633&gbraid=0AAAAApG2RCOuqUmnVh2vpa5G9mveKtp_e&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZwOc3gkpZ3BBlzqOM-XwUneIvXdTXDRYzIKJN-3oS72k-R8r7v_iWxoCdBkQAvD_BwE(https://www.mpu.edu.mo/en/index.php)) supervised by [Yapeng Wang](https://research.mpu.edu.mo/en/persons/yapeng-wang/) My research interests include: Visual SLAM, Autonomous Navigation, Embodied intelligence, etc. I'm looking for PhD positions.
 
 <div style="margin-top: 40px;">
   
