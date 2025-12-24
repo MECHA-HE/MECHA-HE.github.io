@@ -16,20 +16,12 @@ I'm current a research assistant in Macao Polytechnic Univerisity. My research i
   <!-- 上部 -->
   <div style="margin-bottom: 40px;">
     <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Opinions for SLAM</h3>
-    <p style="line-height: 1.6;">My view is that SLAM should evolve along two parallel tracks: "Lite SLAM" for embedded devices like STM32, and "Powerful SLAM" as a spatial AI foundation for intelligent agents.</p>
-    <p style="line-height: 1.6;">Current solutions fall short. V-SLAM and LiDAR-SLAM remain too costly for lightweight hardware, while existing systems lack the semantic depth and adaptive reasoning needed for true agent-environment interaction. The real challenge lies not just in mapping geometry, but in building persistent, understandable representations that bridge perception with action and planning.</p>
+    <p style="line-height: 1.6;">I believe the future of robotic perception lies in a dual-path strategy. We need Lite SLAM that breathes intelligence into microcontrollers, and Powerful SLAM that forms the spatial foundation for AI agents.</p>
+    <p style="line-height: 1.6;">Why? Because today's options are stuck in the middle—too heavy for the edge, yet not smart enough for true reasoning. The real breakthrough won't come from just sharper maps, but from systems that are robust first, interpretable always, and capable of linking perception directly to action.</p>
+    <p style="line-height: 1.6;">This is the challenge I focus on: building spatial intelligence that is both accessible and profound, reliable and adaptive. It’s not just about mapping the world—it’s about teaching machines to understand it.</p>
+    
   </div>
   
-  <!-- 下部 -->
-  <div>
-    <h3 style="margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Future research planning</h3>
-    <p style="line-height: 1.6;">Active participation in the academic community through various roles and responsibilities.</p>
-    <ul style="padding-left: 20px; line-height: 1.6;">
-      <li>Reviewer for IEEE Sensors, IEEE Robotics and Automation Letters</li>
-      <li>Technical Program Committee member for ICRA, IROS</li>
-      <li>Supervisor of undergraduate and postgraduate research projects</li>
-      <li>Collaborator with international research teams</li>
-    </ul>
-  </div>
+ 
   
 </div>
